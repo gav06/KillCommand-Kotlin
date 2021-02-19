@@ -1,0 +1,5 @@
+name: KillCommand
+version: 1.0
+main: me.gavin.killCommand.Main
+author: Gav06
+description: Plugin i made to try out kotlin a little bit
